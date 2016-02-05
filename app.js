@@ -1,3 +1,4 @@
+// Fichier config
 var mongoose = require('mongoose');
 var passport = require('passport');
 require('./models/Posts');
